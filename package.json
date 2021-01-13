@@ -1,0 +1,15 @@
+{
+  "name": "arial-unicode-ms",
+  "description": "A collection of arial unicode ms fonts",
+  "version": "0.0.1",
+  "author": "t33le",
+  "keywords": [
+    "arial-unicode-ms"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/t33le/arial-unicode.git"
+  },
+  "url": "git://github.com/t33le/arial-unicode.git"
+}
