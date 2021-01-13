@@ -4,6 +4,9 @@
   "version": "0.0.1",
   "author": "t33le",
   "main":"index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
   "keywords": [
     "arial-unicode-ms"
   ],
