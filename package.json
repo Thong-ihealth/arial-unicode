@@ -3,7 +3,7 @@
   "description": "A collection of arial unicode ms fonts",
   "version": "0.0.1",
   "author": "t33le",
-  "main":"index.js",
+  "main": "index.js",
   "scripts": {
     "start": "node ./index.js"
   },
@@ -15,5 +15,8 @@
     "type": "git",
     "url": "git://github.com/t33le/arial-unicode.git"
   },
-  "url": "git://github.com/t33le/arial-unicode.git"
+  "url": "git://github.com/t33le/arial-unicode.git",
+  "dependencies": {
+    "fontmin": "^0.9.8"
+  }
 }
